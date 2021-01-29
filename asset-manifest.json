@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iamajavascriptgenius/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/iamajavascriptgenius/static/js/main.62672a56.chunk.js",
+    "main.js.map": "/iamajavascriptgenius/static/js/main.62672a56.chunk.js.map",
+    "runtime-main.js": "/iamajavascriptgenius/static/js/runtime-main.a5da8c12.js",
+    "runtime-main.js.map": "/iamajavascriptgenius/static/js/runtime-main.a5da8c12.js.map",
+    "static/js/2.3a4f94e6.chunk.js": "/iamajavascriptgenius/static/js/2.3a4f94e6.chunk.js",
+    "static/js/2.3a4f94e6.chunk.js.map": "/iamajavascriptgenius/static/js/2.3a4f94e6.chunk.js.map",
+    "static/js/3.e6f118a0.chunk.js": "/iamajavascriptgenius/static/js/3.e6f118a0.chunk.js",
+    "static/js/3.e6f118a0.chunk.js.map": "/iamajavascriptgenius/static/js/3.e6f118a0.chunk.js.map",
+    "index.html": "/iamajavascriptgenius/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/iamajavascriptgenius/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3a4f94e6.chunk.js.LICENSE.txt": "/iamajavascriptgenius/static/js/2.3a4f94e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/iamajavascriptgenius/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5da8c12.js",
+    "static/js/2.3a4f94e6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.62672a56.chunk.js"
+  ]
+}
